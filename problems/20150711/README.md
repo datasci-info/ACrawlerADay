@@ -1,4 +1,6 @@
 
+![](http://data-sci.info/wp-content/uploads/2015/07/2015-07-10_175132.jpg)
+
 # 20150711 A CRAWLER A DAY：UDN 新媒體文章關注
 
 目前台灣新聞媒體素質參差不齊，問的問題有趣: 記者訪問你受傷會痛嗎?  你心情怎麼樣?
@@ -21,8 +23,5 @@
 
 
 ## 貢獻網址：https://github.com/datasci-info/ACrawlerADay  （請將大家的解法貢獻至此）
-
-
-![](http://data-sci.info/wp-content/uploads/2015/07/2015-07-10_175132.jpg)
 
 
